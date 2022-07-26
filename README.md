@@ -5,7 +5,7 @@
 
 ___
 
-### 스타일 도구
+### 주요 스타일 도구
 
 ![Emotion](https://img.shields.io/badge/emotion-f91?style=for-the-badge&logo=emotion&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-%23F05033?style=for-the-badge&logo=styled-components&logoColor=white)
