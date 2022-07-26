@@ -1,5 +1,4 @@
-
-![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=250&section=header&text=Myungseong's%20Profile&fontSize=45&fontAlign=30&fontAlignY=20&animation=twinkling&fontColor=ecf&desc=Front-end%20Developer&descSize=35&descAlignY=44&rotate=-3&stroke=afc&strokeWidth=2)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=250&section=header&text=Myungseong's%20Profile&fontSize=45&fontAlign=67&fontAlignY=20&animation=twinkling&rotate=15&fontColor=ecf&desc=Front-end%20Developer&descSize=35&descAlign=70&descAlignY=44&stroke=afc&strokeWidth=2)
 
 
 ### 주요 기술 스텍
