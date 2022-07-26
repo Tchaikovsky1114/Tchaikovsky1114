@@ -7,11 +7,7 @@ ___
 
 ### 스타일 도구
 
-<div style="flex">
-<img src="https://img.shields.io/badge/emotion-f91?style=for-the-badge&logo=emotion&logoColor=blueviolet">
-  
-</div>
-
+![Emotion](https://img.shields.io/badge/emotion-f91?style=for-the-badge&logo=emotion&logoColor=blueviolet)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
