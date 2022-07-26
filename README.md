@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=250&section=header&text=Myungseong's%20Profile&fontSize=45&fontAlign=67&fontAlignY=20&animation=twinkling&rotate=15&fontColor=ecf&desc=Front-end%20Developer&descSize=35&descAlign=70&descAlignY=44&stroke=afc&strokeWidth=2)
-
+![header](https://capsule-render.vercel.app/api?type=slice&&color=0:d9,100:a82da8&height=250&section=header&text=Job%20Wanted&fontSize=62&fontAlign=67&fontAlignY=20&animation=twinkling&rotate=16.6&fontColor=ecf&desc=Front-end%20Developer&descSize=35&descAlign=77&descAlignY=41&stroke=fff&strokeWidth=2)
 
 ### 주요 기술 스텍
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="48" height="48" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="48" height="48" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="48" height="48" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="48" height="48" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="48" height="48" /></div>
