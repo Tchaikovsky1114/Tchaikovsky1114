@@ -5,7 +5,7 @@
 
 ### 스타일 도구
 <div style="flex">
-<img src="https://img.shields.io/badge/imotion-informational?style=for-the-badge&logo=emotion&logoColor=blueviolet">
+<img src="https://img.shields.io/badge/emotion-informational?style=for-the-badge&logo=emotion&logoColor=blueviolet">
   <img src="https://img.shields.io/badge/styledcomponent-orange?style=for-the-badge&logo=styledcomponent&logoColor=ff69b4">
 </div>
 ### 경험
