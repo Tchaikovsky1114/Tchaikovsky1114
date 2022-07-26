@@ -3,6 +3,11 @@
 ### 주요 기술 스텍
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="48" height="48" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="48" height="48" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="48" height="48" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="48" height="48" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="48" height="48" /></div>
 
+### 스타일 도구
+<div style="flex">
+<img src="https://img.shields.io/badge/imotion-informational?style=for-the-badge&logo=emotion&logoColor=blueviolet">
+  <img src="https://img.shields.io/badge/styledcomponent-orange?style=for-the-badge&logo=styledcomponent&logoColor=ff69b4">
+</div>
 ### 경험
 <div style="flex">
 <img src="https://img.shields.io/badge/mongodb-f91?style=for-the-badge&logo=mongodb&logoColor=green">
