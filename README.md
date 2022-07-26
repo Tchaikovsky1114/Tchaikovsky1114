@@ -5,11 +5,16 @@
 
 ### 경험
 
+<img src="https://img.shields.io/badge/mongodb-f91?style=for-the-badge&logo=mongodb&logoColor=green">
+<img src="https://img.shields.io/badge/express-f91?style=for-the-badge&logo=express&logoColor=informational">
+<img src="https://img.shields.io/badge/lerna-f91?style=for-the-badge&logo=lerna&logoColor=informational">
+<img src="https://img.shields.io/badge/firebase-f91?style=for-the-badge&logo=firebase&logoColor=informational">
+
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tchaikovsky1114&show_icons=true&theme=radical)
 
-<img src="https://img.shields.io/badge/mongodb-f91?style=for-the-badge&logo=mongodb&logoColor=black">
 
 
 
