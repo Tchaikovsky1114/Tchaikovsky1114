@@ -4,12 +4,12 @@
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="48" height="48" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="48" height="48" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="48" height="48" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="48" height="48" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="48" height="48" /></div>
 
 ### 경험
-
+<div style="flex">
 <img src="https://img.shields.io/badge/mongodb-f91?style=for-the-badge&logo=mongodb&logoColor=green">
 <img src="https://img.shields.io/badge/express-f91?style=for-the-badge&logo=express&logoColor=informational">
 <img src="https://img.shields.io/badge/lerna-f91?style=for-the-badge&logo=lerna&logoColor=informational">
-<img src="https://img.shields.io/badge/firebase-f91?style=for-the-badge&logo=firebase&logoColor=informational">
-
+<img src="https://img.shields.io/badge/firebase-f91?style=for-the-badge&logo=firebase&logoColor=critical">
+</div>
 
 
 
