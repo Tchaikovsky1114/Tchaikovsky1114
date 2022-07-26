@@ -4,7 +4,10 @@
 문제의 원인을 알게 되면, 100개의 에러를 처리할 수 있다! 😀   
 당장의 문제 해결보다 문제가 일어난 원인을 파악하는 개발자가 되기 위해 노력하고 있습니다! 😊
 
-___
+## Online Judge
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=forwarm)](https://solved.ac/forwarm)
+
 
 ## MAIN STACK
 **Library & Framework**
@@ -56,10 +59,6 @@ ___
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tchaikovsky1114&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tchaikovsky1114&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-## Online Judge
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=forwarm)](https://solved.ac/forwarm)
 
 
 
