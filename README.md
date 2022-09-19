@@ -14,7 +14,9 @@
 ## MAIN STACK
 **Library & Framework**
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="48" height="48" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="48" height="48" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="48" height="48" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="48" height="48" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="48" height="48" /></div>
+
 ![ReactQuery](https://img.shields.io/badge/reactquery-%2338B2AC.svg?style=for-the-badge&logo=react-query&logoColor=white)
+
 **Style Tool**
 
 ![Emotion](https://img.shields.io/badge/emotion-f91?style=for-the-badge&logo=emotion&logoColor=white)
