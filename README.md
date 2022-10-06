@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=slice&&color=0:d9,100:a82da8&height=250&section=header&text=Job%20Wanted&fontSize=62&fontAlign=67&fontAlignY=20&animation=twinkling&rotate=16.6&fontColor=ecf&desc=Front-end%20Developer&descSize=35&descAlign=77&descAlignY=41&stroke=fff&strokeWidth=2)
 
 ## if you one cause know, can handle 100 errors.
 문제의 원인을 알게 되면, 100개의 에러를 처리할 수 있다! 😀   
