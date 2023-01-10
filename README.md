@@ -12,11 +12,13 @@
 
 ## MAIN STACK
 
-**React**
+**React, React-Native**
  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="48" height="48" />
 <br/>
-**React-Native**
-<img src="https://img.shields.io/badge/reactnative-E34F26?style=for-the-badge&logo=reactnative&logoColor=white"/>
+
+**EXPO**
+<img src="https://img.shields.io/badge/EXPO-bf41?style=for-the-badge&logo=expo&logoColor=white" />
+
 <br/>
 **Firebase**
  <img src="https://img.shields.io/badge/firebase-E34F26?style=for-the-badge&logo=firebase&logoColor=white"/>
