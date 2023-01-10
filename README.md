@@ -15,7 +15,7 @@
 ** React, React-Native **
 <div style="display: flex; align-items: flex-start;">
  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="48" height="48" />
- <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+ <img src="https://img.shields.io/badge/firebase-E34F26?style=for-the-badge&logo=firebase&logoColor=white"/>
 </div>
 
 
