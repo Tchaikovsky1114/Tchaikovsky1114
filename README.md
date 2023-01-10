@@ -14,9 +14,9 @@
 
 <div style="display: flex; align-items: flex-start;">
  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="48" height="48" />
- <img src="https://techstack-generator.vercel.app/react-native-icon.svg" alt="icon" width="48" height="48" />
- <img src="https://techstack-generator.vercel.app/firebase.svg" alt="icon" width="48" height="48" />
+ <img src="https://img.shields.io/badge/FIREBASE-#f41?style=for-the-badge&logo=react-native&logoColor=white">
 </div>
+
 
 
 
