@@ -12,18 +12,46 @@
 
 ## MAIN STACK
 
-**React, React-Native**
+**React, React-Native(EXPO), Firebase**
 
 <div style="display:flex, align-items:center">
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="48" height="48" />
 <img src="https://img.shields.io/badge/EXPO-000020?style=for-the-badge&logo=expo&logoColor=white" />
 <img src="https://img.shields.io/badge/firebase-E34F26?style=for-the-badge&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </div>
  
+### React-Native(EXPO)
 
+- Camera
+- Image Picker
+- Media Library
+- Animated
+- DeepLink
+- Assets
+- Constant
+- Linking
+- Splashscreen
+- Expo-Dev-Client
+- Expo-Updates
+- Expo-Build
+- Expo-Submit
 
+### Firebase
+- Dynamic Link
+- Cloud functions
+- Firestore
+- Storage
+- Hosting
+- Messaging
 
-
+### Google Cloud Platform (GCP)
+- Api Access
+- Authorization
+- Connect Google Develope Console
+- Connect Firebase Console
+- Connect Library
+- Oauth
 
 ## Activity
 
