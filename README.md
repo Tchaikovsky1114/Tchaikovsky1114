@@ -5,8 +5,6 @@
 
 ## MAIN STACK
 
-**React, React-Native(EXPO), Firebase**
-
 <div style="display:flex, align-items:center">
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="48" height="48" />
 <img src="https://img.shields.io/badge/EXPO-000020?style=for-the-badge&logo=expo&logoColor=white" />
