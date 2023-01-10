@@ -11,45 +11,12 @@
 
 
 ## MAIN STACK
-**Library & Framework**
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="48" height="48" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="48" height="48" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="48" height="48" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="48" height="48" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="48" height="48" /></div>
 
-![ReactQuery](https://img.shields.io/badge/reactquery-%2338B2AC.svg?style=for-the-badge&logo=react-query&logoColor=white)
-
-**Style Tool**
-
-![Emotion](https://img.shields.io/badge/emotion-f91?style=for-the-badge&logo=emotion&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-%23F05033?style=for-the-badge&logo=styled-components&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-
-
-## Experienced
-
-**DATABASE & FLATFORM & BUILD TOOL**
-
-<div style="flex">
-<img src="https://img.shields.io/badge/mongodb-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=green">
-<img src="https://img.shields.io/badge/express-f91?style=for-the-badge&logo=express&logoColor=informational">
-<img src="https://img.shields.io/badge/lerna-f91?style=for-the-badge&logo=lerna&logoColor=informational">
-<img src="https://img.shields.io/badge/firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=critical">
-<img src="https://img.shields.io/badge/esbuild-f91?style=for-the-badge&logo=esbuild&logoColor=blueviolet">
+<div style="display: flex; align-items: flex-start;">
+ <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="48" height="48" />
+ <img src="https://techstack-generator.vercel.app/react-native-icon.svg" alt="icon" width="48" height="48" />
+ <img src="https://techstack-generator.vercel.app/firebase.svg" alt="icon" width="48" height="48" />
 </div>
-
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-
-
-
-**FRAMEWORK, LIBRARY**
-
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-
-
-
-
-**HOSTING**
-
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 
 
