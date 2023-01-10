@@ -12,11 +12,12 @@
 
 ## MAIN STACK
 
-** React, React-Native **
-<div style="display: flex; align-items: flex-start;">
+**React, React-Native**
  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="48" height="48" />
+
+**Firebase**
  <img src="https://img.shields.io/badge/firebase-E34F26?style=for-the-badge&logo=firebase&logoColor=white"/>
-</div>
+
 
 
 
