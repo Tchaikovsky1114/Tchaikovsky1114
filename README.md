@@ -13,15 +13,15 @@
 ## MAIN STACK
 
 **React, React-Native**
-<div style="display:flex; justify-content:center; align-items:center;"
- <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="48" height="48" />
 <br/>
+ <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="48" height="48" />
 
 **EXPO**
+<br/>
 <img src="https://img.shields.io/badge/EXPO-bf41?style=for-the-badge&logo=expo&logoColor=white" />
 
-<br/>
 **Firebase**
+<br/>
  <img src="https://img.shields.io/badge/firebase-E34F26?style=for-the-badge&logo=firebase&logoColor=white"/>
 
 
