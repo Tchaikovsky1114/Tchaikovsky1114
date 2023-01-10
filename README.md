@@ -14,7 +14,7 @@
 
 <div style="display: flex; align-items: flex-start;">
  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="48" height="48" />
- <img src="https://img.shields.io/badge/firebase-#f41?style=for-the-badge&logo=firebase&logoColor=white">
+ <img src="https://img.shields.io/badge/firebase-#FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 </div>
 
 
