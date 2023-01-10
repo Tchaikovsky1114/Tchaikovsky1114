@@ -13,6 +13,7 @@
 ## MAIN STACK
 
 **React, React-Native**
+<div style="display:flex; justify-content:center; align-items:center;"
  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="48" height="48" />
 <br/>
 
