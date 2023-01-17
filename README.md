@@ -19,6 +19,7 @@
 - Media Library
 - Animated
 - DeepLink
+- Notification
 - Assets
 - Constant
 - Linking
