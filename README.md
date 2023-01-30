@@ -25,9 +25,8 @@
 - Linking
 - Splashscreen
 - Expo-Dev-Client
-- Expo-Updates
-- Expo-Build
-- Expo-Submit
+- Expo-Build / Submit / Updates
+- Platform Deploy
 
 ### Firebase
 - Dynamic Link
