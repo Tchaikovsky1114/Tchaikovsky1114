@@ -19,7 +19,7 @@
 - Media Library
 - Animated
 - DeepLink
-- Notification
+- Notifications
 - Assets
 - Constant
 - Linking
@@ -32,6 +32,8 @@
 ### Firebase
 - Dynamic Link
 - Cloud functions
+- Pub/Sub
+- Schedule
 - Firestore
 - Storage
 - Hosting
