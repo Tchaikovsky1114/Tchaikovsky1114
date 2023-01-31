@@ -25,8 +25,7 @@
 - Linking
 - Splashscreen
 - Expo-Dev-Client
-- Expo-Build / Submit / Updates
-- Platform Deploy
+- Deploy And Management(Expo-Build / Submit / Updates)
 
 ### Firebase
 - Dynamic Link
@@ -37,6 +36,7 @@
 - Storage
 - Hosting
 - Messaging
+- Response to document creations(onCreate/Update/Write/Delete)
 
 ### Google Cloud Platform (GCP)
 - Api Access
