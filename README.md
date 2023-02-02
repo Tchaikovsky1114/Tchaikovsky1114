@@ -36,7 +36,7 @@
 - Storage
 - Hosting
 - Messaging
-- Response to document creations(onCreate/Update/Write/Delete)
+- Response to document (onCreate/Update/Write/Delete)
 
 ### Google Cloud Platform (GCP)
 - Api Access
