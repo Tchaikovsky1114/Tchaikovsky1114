@@ -48,7 +48,7 @@
 - Oauth
 - Google Developer Console
 
-## Sub STACK
+## SUB STACK
 
 <img src="https://img.shields.io/badge/Kotlin-ffffff?style=for-the-badge&logo=kotlin&logoColor=9831E7" />
 
