@@ -10,6 +10,7 @@
 <img src="https://img.shields.io/badge/EXPO-000020?style=for-the-badge&logo=expo&logoColor=white" />
 <img src="https://img.shields.io/badge/firebase-E34F26?style=for-the-badge&logo=firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Kotlin-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </div>
  
 ### React-Native( Key of EXPO Feature )
@@ -47,7 +48,8 @@
 - Oauth
 - Google Developer Console
 
-
+### Kotlin
+- I study hard and do my best...! 🤣
 
 
 ## Online Judge
