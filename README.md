@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/EXPO-000020?style=for-the-badge&logo=expo&logoColor=white" />
 <img src="https://img.shields.io/badge/firebase-E34F26?style=for-the-badge&logo=firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Kotlin-ffffff?style=for-the-badge&logo=kotlin&logoColor=9831E7" />
+
 </div>
  
 ### React-Native( Key of EXPO Feature )
@@ -47,6 +47,10 @@
 - Connect Library
 - Oauth
 - Google Developer Console
+
+## Sub STACK
+
+<img src="https://img.shields.io/badge/Kotlin-ffffff?style=for-the-badge&logo=kotlin&logoColor=9831E7" />
 
 ### Kotlin
 - I study hard and do my best...! 🤣
