@@ -19,10 +19,10 @@
 
 
 ## SUB STACK
-
+<div style="display: flex;">
 <img src="https://img.shields.io/badge/Kotlin-ffffff?style=for-the-badge&logo=kotlin&logoColor=9831E7" />
 <img src="https://img.shields.io/badge/Socketio-ffffff?style=for-the-badge&logo=socketio&logoColor=9831E7" />
-
+</div>
 ### Kotlin
 - I study hard and do my best...! 🤣
 
