@@ -21,12 +21,12 @@
 </div>
 
 
-
+<!-- 
 ## Online Judge
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=forwarm)](https://solved.ac/forwarm)
 
- <a href="https://github.com/Tchaikovsky1114/boj" target="_blank"><img src="https://img.shields.io/badge/SOLVED%20STORE-0e2be8?style=flat-square&logo=boj&logoColor=white"/></a>
+ <a href="https://github.com/Tchaikovsky1114/boj" target="_blank"><img src="https://img.shields.io/badge/SOLVED%20STORE-0e2be8?style=flat-square&logo=boj&logoColor=white"/></a> -->
 
 
 
