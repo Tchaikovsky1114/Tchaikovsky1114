@@ -1,4 +1,4 @@
-##  React & React-Native-Expo Developer
+#  React & React-Native-Expo Developer
 
 
 ## if you one cause know, can handle 100 errors.
