@@ -10,48 +10,18 @@
 <img src="https://img.shields.io/badge/EXPO-000020?style=for-the-badge&logo=expo&logoColor=white" />
 <img src="https://img.shields.io/badge/firebase-E34F26?style=for-the-badge&logo=firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google&logoColor=white" />
- <img src="https://img.shields.io/badge/express-ffffff?style=for-the-badge&logo=express&logoColor=black" />
+<img src="https://img.shields.io/badge/express-ffffff?style=for-the-badge&logo=express&logoColor=black" />
 
 </div>
  
-### React-Native( Key of EXPO Feature )
+###  React & React-Native-Expo Developer
 
-- Camera
-- Image Picker
-- Media Library
-- Animated
-- DeepLink
-- Notifications
-- Assets
-- Constant
-- Linking
-- Splashscreen
-- Expo-Dev-Client
-- Deploy And Management(Expo-Build / Submit / Updates)
 
-### Firebase
-- Dynamic Link
-- Cloud functions
-- Pub/Sub
-- Schedule
-- Firestore
-- Storage
-- Hosting
-- Messaging
-- Response to document changes (onCreate/Update/Write/Delete)
-
-### Google Cloud Platform (GCP)
-- Api Access
-- Authorization
-- Connect Google Develope Console
-- Connect Firebase Console
-- Connect Library
-- Oauth
-- Google Developer Console
 
 ## SUB STACK
 
 <img src="https://img.shields.io/badge/Kotlin-ffffff?style=for-the-badge&logo=kotlin&logoColor=9831E7" />
+<img src="https://img.shields.io/badge/Socketio-ffffff?style=for-the-badge&logo=socketio&logoColor=9831E7" />
 
 ### Kotlin
 - I study hard and do my best...! 🤣
