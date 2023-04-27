@@ -1,9 +1,6 @@
 #  React & React-Native-Expo Developer
-
-
-## if you one cause know, can handle 100 errors.
 문제의 원인을 알게 되면, 100개의 에러를 처리할 수 있다! 😀   
-당장의 문제 해결보다 문제가 일어난 원인을 파악하는 개발자가 되기 위해 노력하고 있습니다! 😊
+당장의 문제 해결보다 문제가 일어난 원인을 파악하는 개발자가 되기 위해 노력하고 있습니다. 😊
 
 ## MAIN STACK
 
@@ -17,16 +14,12 @@
 </div>
  
 
-
-
-
 ## SUB STACK
 <div style="display: flex;">
 <img src="https://img.shields.io/badge/Kotlin-ffffff?style=for-the-badge&logo=kotlin&logoColor=9831E7" />
 <img src="https://camo.githubusercontent.com/3cd61d131f627e41a6a6fe60589cc07578949753809967d9fc36dc6e3e445f25/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d536f636b65742e696f26636f6c6f723d303130313031266c6f676f3d536f636b65742e696f266c6f676f436f6c6f723d464646464646266c6162656c3d" />
 </div>
-### Kotlin
-- I study hard and do my best...! 🤣
+
 
 
 ## Online Judge
