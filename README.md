@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/EXPO-000020?style=for-the-badge&logo=expo&logoColor=white" />
 <img src="https://img.shields.io/badge/firebase-E34F26?style=for-the-badge&logo=firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google&logoColor=white" />
- <img src="https://img.shields.io/badge/express-4285F4?style=for-the-badge&logo=express&logoColor=white" />
+ <img src="https://img.shields.io/badge/express-ffffff?style=for-the-badge&logo=express&logoColor=black" />
 
 </div>
  
