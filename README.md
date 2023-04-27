@@ -1,6 +1,7 @@
 #  React & React-Native-Expo Developer
-문제의 원인을 알게 되면, 100개의 에러를 처리할 수 있다! 😀   
-당장의 문제 해결보다 문제가 일어난 원인을 파악하는 개발자가 되기 위해 노력하고 있습니다. 😊
+
+- 앱 출시까지 가능합니다. 😃
+
 
 ## MAIN STACK
 
@@ -43,7 +44,7 @@
 
 ### SNS
  <a href="https://velog.io/@tchaikovsky" target="_blank"><img src="https://img.shields.io/badge/velog-f91?style=flat-square&logo=velog&logoColor=white"/></a>
-
+ 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTchaikovsky1114&count_bg=%236E7778&title_bg=%234A8BDB&icon=github.svg&icon_color=%231D1B1B&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### WakaTime
