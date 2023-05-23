@@ -1,4 +1,4 @@
-#  React & React-Native-Expo Developer
+#  React & React-Native Developer
 
 - 앱 출시까지 가능합니다. 😃
 
