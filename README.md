@@ -5,7 +5,7 @@
 
 ## MAIN STACK 
 
-- **적극적으로 활용**
+- **적극적으로 활용하는 스텍입니다.**
 
 <div style="display:flex, align-items:center">
 
@@ -21,7 +21,7 @@
 
 ## SUB STACK
 
-- **개발에 도움을 얻을 수 있는 정도의 지식**
+- **공부중이거나 개발에 도움을 얻을 수 있는 정도의 지식을 의미합니다.**
 
 <div style="display: flex;">
 <img src="https://img.shields.io/badge/Kotlin-ffffff?style=for-the-badge&logo=kotlin&logoColor=9831E7" />
