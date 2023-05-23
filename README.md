@@ -4,7 +4,8 @@
 
 
 ## MAIN STACK 
-### 적극적으로 활용
+
+**적극적으로 활용**
 
 <div style="display:flex, align-items:center">
 
@@ -19,7 +20,9 @@
  
 
 ## SUB STACK
-### 개발에 도움을 얻을 수 있는 정도의 지식
+
+**개발에 도움을 얻을 수 있는 정도의 지식**
+
 <div style="display: flex;">
 <img src="https://img.shields.io/badge/Kotlin-ffffff?style=for-the-badge&logo=kotlin&logoColor=9831E7" />
 <img src="https://camo.githubusercontent.com/3cd61d131f627e41a6a6fe60589cc07578949753809967d9fc36dc6e3e445f25/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d536f636b65742e696f26636f6c6f723d303130313031266c6f676f3d536f636b65742e696f266c6f676f436f6c6f723d464646464646266c6162656c3d" />
