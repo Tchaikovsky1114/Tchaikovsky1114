@@ -1,15 +1,15 @@
-#  Web Dev
+#  Web 
 
 - Nextjs와 Nestjs를 사용합니다.
-- 13버전을 분기로 Page Router, App Router 모두 사용 가능합니다.
+- Nextjs같은 경우 Page Router의 기능과 App Router의 기능 모두 사용 가능합니다.
 
-# App
+# App 
 - RN App 배포 및 운영 가능합니다. 😃
 
 
 ## MAIN STACK 
 
-- **적극적으로 활용하는 스텍입니다.**
+- **적극적으로 활용하는 스택입니다.**
 
 <div style="display:flex, align-items:center">
 
