@@ -15,6 +15,7 @@
 <img src="https://img.shields.io/badge/firebase-E34F26?style=for-the-badge&logo=firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/postgresql-2D63E2?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/express-94C461?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/nestjs-94C461?style=for-the-badge&logo=nestjs&logoColor=white"/>
 
  
 
