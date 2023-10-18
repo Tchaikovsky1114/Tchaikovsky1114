@@ -1,5 +1,8 @@
 #  Web Dev
 
+- Nextjs (v13 - App router)와 Nestjs를 사용합니다.
+
+# App
 - RN App 배포 및 운영 가능합니다. 😃
 
 
