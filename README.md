@@ -1,6 +1,7 @@
 #  Web Dev
 
-- Nextjs (v13 - App router)와 Nestjs를 사용합니다.
+- Nextjs와 Nestjs를 사용합니다.
+- 13버전을 분기로 Page Router, App Router 모두 사용 가능합니다.
 
 # App
 - RN App 배포 및 운영 가능합니다. 😃
