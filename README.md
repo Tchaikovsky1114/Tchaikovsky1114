@@ -1,6 +1,6 @@
-#  React & React-Native Developer
+#  Web Dev
 
-- 앱 출시까지 가능합니다. 😃
+- RN App 배포 및 운영 가능합니다. 😃
 
 
 ## MAIN STACK 
