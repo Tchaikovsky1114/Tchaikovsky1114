@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/postgresql-2D63E2?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/express-94C461?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/nestjs-ff4141?style=for-the-badge&logo=nestjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/ws-5efa5b?style=for-the-badge&logo=ws&logoColor=white"/>
+<img src="https://img.shields.io/badge/ws-5efa5b?style=for-the-badge&logo=websocket&logoColor=white"/>
 
  
 
