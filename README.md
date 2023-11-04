@@ -4,7 +4,7 @@
 - Nextjs같은 경우 Page Router의 기능과 App Router의 기능 모두 사용 가능합니다.
 
 # App 
-- RN App 배포 및 운영 가능합니다. 😃
+- React Native (bearer, expo) 배포 및 운영 가능합니다.
 
 
 ## MAIN STACK 
