@@ -1,11 +1,11 @@
 #  Web 
-
-- Nextjs와 Nestjs를 사용합니다.
-- Nextjs같은 경우 Page Router의 기능과 App Router의 기능 모두 사용 가능합니다.
-
+- Nextjs(using both Page and App Router)
+ 
 # App 
-- React Native (bearer, expo) 배포 및 운영 가능합니다.
+- React Native (bearer, expo)
 
+# Server
+- Nestjs
 
 ## MAIN STACK 
 
