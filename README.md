@@ -2,7 +2,7 @@
 - Nextjs(using both Page and App Router)
  
 # App 
-- React Native (bearer, expo)
+- React Native (cli, expo)
 
 # Server
 - Nestjs
