@@ -15,7 +15,7 @@
 
 <img src="https://img.shields.io/badge/React Native-2d63e2?style=for-the-badge&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/EXPO-000020?style=for-the-badge&logo=expo&logoColor=white" />
-<img src="https://img.shields.io/badge/nestjs-ff4141?style=for-the-badge&logo=nestjs&logoColor=white"/>
+
 
 
  
@@ -23,13 +23,8 @@
 ## SUB STACK
 
 <div style="display: flex;">
- 
-<img
-src="https://camo.githubusercontent.com/028e2fa50d07bd7e228b89255fa1bd5ad310d1b3d7c327f67e9510398a045272/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d416e64726f696426636f6c6f723d323232323232266c6f676f3d416e64726f6964266c6f676f436f6c6f723d334444433834266c6162656c3d" />
-<img src="https://img.shields.io/badge/Kotlin-ffffff?style=for-the-badge&logo=kotlin&logoColor=9831E7" />
-<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring-00ff00?style=for-the-badge&logo=spring&logoColor=white" />
-<img src="https://camo.githubusercontent.com/3cd61d131f627e41a6a6fe60589cc07578949753809967d9fc36dc6e3e445f25/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d536f636b65742e696f26636f6c6f723d303130313031266c6f676f3d536f636b65742e696f266c6f676f436f6c6f723d464646464646266c6162656c3d" /> 
+ [![My Skills](https://skillicons.dev/icons?i=kotlin,gcp,firebase,androidstudio&perline=3)](https://skillicons.dev)
+
 <img src="https://img.shields.io/badge/firebase-E34F26?style=for-the-badge&logo=firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/WebSocket-5efa5b?style=for-the-badge&logo=websocket&logoColor=white"/>
 </div>
