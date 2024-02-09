@@ -23,13 +23,8 @@
 ## SUB STACK
 
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,gcp,firebase,androidstudio&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,gcp,firebase,androidstudio&perline=5)](https://skillicons.dev)
 
- 
-<div style="display: flex;">
-<img src="https://img.shields.io/badge/firebase-E34F26?style=for-the-badge&logo=firebase&logoColor=white"/>
-<img src="https://img.shields.io/badge/WebSocket-5efa5b?style=for-the-badge&logo=websocket&logoColor=white"/>
-</div>
 
 <!-- 
 ## Online Judge
