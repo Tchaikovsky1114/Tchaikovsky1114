@@ -11,7 +11,7 @@
 
 <div style="display:flex, align-items:center">
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,reactnative&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nestjs&perline=3)](https://skillicons.dev)
 
 <img src="https://img.shields.io/badge/React Native-2d63e2?style=for-the-badge&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/EXPO-000020?style=for-the-badge&logo=expo&logoColor=white" />
